@@ -1,4 +1,0 @@
-C:\Users\USERR\Software Dev\MySecondConsoleApp1\AssignmentTask\obj\Debug\net9.0\AssignmentTask.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USERR\Software Dev\MySecondConsoleApp1\AssignmentTask\obj\Debug\net9.0\AssignmentTask.AssemblyInfoInputs.cache
-C:\Users\USERR\Software Dev\MySecondConsoleApp1\AssignmentTask\obj\Debug\net9.0\AssignmentTask.AssemblyInfo.cs
-C:\Users\USERR\Software Dev\MySecondConsoleApp1\AssignmentTask\obj\Debug\net9.0\AssignmentTask.csproj.CoreCompileInputs.cache
