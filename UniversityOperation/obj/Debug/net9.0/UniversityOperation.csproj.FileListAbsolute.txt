@@ -1,0 +1,4 @@
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\UniversityOperation\obj\Debug\net9.0\UniversityOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\UniversityOperation\obj\Debug\net9.0\UniversityOperation.AssemblyInfoInputs.cache
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\UniversityOperation\obj\Debug\net9.0\UniversityOperation.AssemblyInfo.cs
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\UniversityOperation\obj\Debug\net9.0\UniversityOperation.csproj.CoreCompileInputs.cache

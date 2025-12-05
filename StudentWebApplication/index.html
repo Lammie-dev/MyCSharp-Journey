@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Peformance Manager</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>STUDENT PERFORMANCE MANAGER</h1>
+  <form id="studentData" action="">
+<div class="student">
+  <div class="student-data">
+  <label> Student name:
+   <input class="data" type="text" value="" placeholder="Enter your name" id="name" required>
+  </label><br>
+   <label> Gender:
+   <input class="data" type="text" value="" placeholder="Enter your gender" id="gender" required>
+  </label><br>
+  </div>
+
+  <div class="courses">
+  <label> Course score 1:
+   <input class="score" type="number" value="" placeholder="Enter your score " required>
+  </label><br>
+   <label> Course score 2:
+   <input class="score" type="number" value="" placeholder="Enter your score "required>
+  </label><br>
+   <label> Course score 3:
+   <input class="score" type="number" value="" placeholder="Enter your score " required>
+  </label><br>
+   <label> Course score 4:
+   <input class="score" type="number" value="" placeholder="Enter your score " required>
+  </label><br>
+   <label> Course score 5:
+   <input class="score" type="number" value="" placeholder="Enter your score " required>
+  </label>
+</div>
+ 
+<button type="submit" class="submit-cs">Submit</button>
+  
+</div>
+
+<div id="display" class="show">Your Result is shown here!
+ </div> 
+ <h2>Students List </h2>
+<div id="studentList"></div>
+ </form>
+
+ <script src="script.js"></script>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+// document.getElementById("studentData").addEventListener("submit", function (e) {
+
+//   e.preventDefault(); -->
+<!-- function showOutput() {
+  const name = document.getElementById("name").value;
+  const gender = document.getElementById("gender").value;
+  const scoreInput = document.querySelectorAll(".score");
+
+  const scores = Array.from(scoreInput).map((input) => Number(input.value));
+  const studentData = {
+    name: name,
+    gender: gender,
+    scores: scores
+  };
+     
+  
+    
+ 
+  fetch("http://localhost:5154/api/students", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(studentData)
+  })
+  
+    .then((response) => response.json())
+    .then((data) => {
+
+      const showResult =
+      document.getElementById("display");
+
+      showResult.innerHTML = `<p>
+  Student: <strong>${data.name}</strong><br>
+ Gender: <strong>${data.gender}</strong><br>
+ Average: <strong>${data.average.toFixed(2)}</strong><br>
+ Grade: <strong>${data.grade}</strong>
+
+  </p>`;
+     loadStudents();
+    })
+    .catch((err) => {
+      document.getElementById("display").innerText =
+        "Error Note:" + err.message;
+    });
+  }
+  
+// });
+
+
+
+
+  function loadStudents() {
+    fetch("http://localhost:5154/api/students")
+    .then(response => response.json())
+    .then(data => {
+      const studentList = 
+      document.getElementById('studentList');
+      if (data.length ===0) {
+        studentList.innerHTML = `<p> No students found. </p>`;
+        return;
+      }
+      let output= `<table border = '1' cellpadding ='8' > <tr><th>Name</th> <th>Gender</th> <th>Average</th> <th>Grade</th> </tr>`;
+      data.forEach(s => { output += `<tr>
+        <td>${s.name}</td>
+        <td>${s.gender}</td>
+        <td>${s.average.toFixed(2)}</td>
+        <td>${s.grade}</td>
+        </tr>`;
+        
+      }); 
+      output += `</table>`;
+      studentList.innerHTML = output;
+    })
+     .catch((err) => {
+      document.getElementById("studentList").innerText =
+        "Error fetching student lists:" + err.message;
+    });
+  }
+  window.addEventListener("DOMContentLoaded", loadStudents); -->
+</html>

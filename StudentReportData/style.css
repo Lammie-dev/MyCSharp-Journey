@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: aquamarine;
+}
+.student{
+  padding: 10px 10px;
+  margin: 0;
+  
+}
+/* .student-data{
+  width: 600px;
+  
+} */
+ .data{
+   margin-bottom: 5px;
+  width: 200px;
+  outline: none;
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+
+ }
+.score{
+  margin-bottom: 5px;
+  width: 200px;
+  outline: none;
+  display: block;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.display{
+  background-color: white;
+  padding: 10px 10px;
+  margin-top: 30px;
+  border-radius: 6px;
+  border: 1px solid yellow;
+  width: 500px;
+  height: 250px;
+
+}

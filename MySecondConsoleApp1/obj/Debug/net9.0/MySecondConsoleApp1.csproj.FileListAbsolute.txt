@@ -1,0 +1,14 @@
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\bin\Debug\net9.0\MySecondConsoleApp1.exe
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\bin\Debug\net9.0\MySecondConsoleApp1.deps.json
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\bin\Debug\net9.0\MySecondConsoleApp1.runtimeconfig.json
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\bin\Debug\net9.0\MySecondConsoleApp1.dll
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\bin\Debug\net9.0\MySecondConsoleApp1.pdb
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.AssemblyInfo.cs
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.dll
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\refint\MySecondConsoleApp1.dll
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.pdb
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\MySecondConsoleApp1.genruntimeconfig.cache
+C:\Users\Lammie\Software Dev\MySecondConsoleApp1\MySecondConsoleApp1\obj\Debug\net9.0\ref\MySecondConsoleApp1.dll

@@ -1,0 +1,14 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\bin\Debug\net9.0\CollectionData.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\bin\Debug\net9.0\CollectionData.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\bin\Debug\net9.0\CollectionData.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\bin\Debug\net9.0\CollectionData.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\bin\Debug\net9.0\CollectionData.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\refint\CollectionData.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\CollectionData.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\CollectionData\obj\Debug\net9.0\ref\CollectionData.dll

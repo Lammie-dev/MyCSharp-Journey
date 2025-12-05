@@ -1,0 +1,28 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\refint\EmployeeSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\ref\EmployeeSystem.dll
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.exe
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.deps.json
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.runtimeconfig.json
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.dll
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\bin\Debug\net9.0\EmployeeSystem.pdb
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.AssemblyInfoInputs.cache
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.AssemblyInfo.cs
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.dll
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\refint\EmployeeSystem.dll
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.pdb
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\EmployeeSystem.genruntimeconfig.cache
+C:\Users\USERR\Software-Dev\MySecondConsoleApp1\EmployeeSystem\obj\Debug\net9.0\ref\EmployeeSystem.dll

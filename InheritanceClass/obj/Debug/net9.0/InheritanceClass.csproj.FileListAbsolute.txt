@@ -1,0 +1,14 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\bin\Debug\net9.0\InheritanceClass.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\bin\Debug\net9.0\InheritanceClass.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\bin\Debug\net9.0\InheritanceClass.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\bin\Debug\net9.0\InheritanceClass.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\bin\Debug\net9.0\InheritanceClass.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\refint\InheritanceClass.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\InheritanceClass.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\InheritanceClass\obj\Debug\net9.0\ref\InheritanceClass.dll

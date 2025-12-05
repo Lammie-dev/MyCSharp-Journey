@@ -1,0 +1,14 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\bin\Debug\net9.0\UniversitySystem.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\bin\Debug\net9.0\UniversitySystem.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\bin\Debug\net9.0\UniversitySystem.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\bin\Debug\net9.0\UniversitySystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\bin\Debug\net9.0\UniversitySystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\refint\UniversitySystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\UniversitySystem.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\UniversitySystem\obj\Debug\net9.0\ref\UniversitySystem.dll

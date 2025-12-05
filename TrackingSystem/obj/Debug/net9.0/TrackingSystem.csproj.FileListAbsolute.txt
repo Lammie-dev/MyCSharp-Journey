@@ -1,0 +1,14 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\bin\Debug\net9.0\TrackingSystem.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\bin\Debug\net9.0\TrackingSystem.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\bin\Debug\net9.0\TrackingSystem.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\bin\Debug\net9.0\TrackingSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\bin\Debug\net9.0\TrackingSystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\refint\TrackingSystem.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\TrackingSystem.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\TrackingSystem\obj\Debug\net9.0\ref\TrackingSystem.dll

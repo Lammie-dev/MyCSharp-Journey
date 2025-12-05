@@ -1,0 +1,14 @@
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\bin\Debug\net9.0\ZooAnimal.exe
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\bin\Debug\net9.0\ZooAnimal.deps.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\bin\Debug\net9.0\ZooAnimal.runtimeconfig.json
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\bin\Debug\net9.0\ZooAnimal.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\bin\Debug\net9.0\ZooAnimal.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.AssemblyInfoInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.AssemblyInfo.cs
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.csproj.CoreCompileInputs.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\refint\ZooAnimal.dll
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.pdb
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ZooAnimal.genruntimeconfig.cache
+C:\Users\USERR\Software Dev\MySecondConsoleApp1\ZooAnimal\obj\Debug\net9.0\ref\ZooAnimal.dll
