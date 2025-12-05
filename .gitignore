@@ -43,3 +43,13 @@ TestResult*/
 
 # Publish outputs
 publish/
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore zip files
+*.zip
